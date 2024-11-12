@@ -19,9 +19,9 @@ A Python application that allows you to search, download, and convert manga chap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/manga-downloader.git
+   https://github.com/Hasanbinamin/mgdownloder.git
 
-   cd manga-downloader
+   cd mgdownloder
    ```
 
 2. Install the required dependencies:
@@ -43,7 +43,7 @@ Follow the interactive prompts to:
 4. Wait for the download and PDF conversion to complete
 
 ## Project Structure
-manga-downloader/
+mgdownloder/
 ├── main.py
 ├── manga_fetcher.py
 ├── downloader.py
