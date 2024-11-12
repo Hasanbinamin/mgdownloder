@@ -42,14 +42,6 @@ Follow the interactive prompts to:
 3. Choose a chapter to download
 4. Wait for the download and PDF conversion to complete
 
-## Project Structure
-mgdownloder/
-├── main.py
-├── manga_fetcher.py
-├── downloader.py
-├── convert_to_pdf.py
-├── requirements.txt
-└── README.md
 
 ## License
 
