@@ -1,4 +1,4 @@
-# Manga Downloader
+# Mg Downloader
 
 A Python application that allows you to search, download, and convert manga chapters to PDF format using the MangaDex API.
 
