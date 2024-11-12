@@ -1,0 +1,4 @@
+requests
+ratelimit
+Pillow
+urllib3
