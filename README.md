@@ -1,4 +1,4 @@
-# Manga Downloader
+# Mg Downloader (Manga Downloader)
 
 A Python application that allows you to search, download, and convert manga chapters to PDF format using the MangaDex API.
 
@@ -19,7 +19,11 @@ A Python application that allows you to search, download, and convert manga chap
 
 1. Clone the repository:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/Hasanbinamin/mgdownloder.git
+=======
+   https://github.com/Hasanbinamin/mgdownloder.git
+>>>>>>> a25f3c1b232cf841e40c4773d7e7eb1c93a84468
 
    cd mgdownloder
    ```
@@ -42,14 +46,6 @@ Follow the interactive prompts to:
 3. Choose a chapter to download
 4. Wait for the download and PDF conversion to complete
 
-## Project Structure
-mgdownloder/
-├── main.py
-├── manga_fetcher.py
-├── downloader.py
-├── convert_to_pdf.py
-├── requirements.txt
-└── README.md
 
 ## License
 
