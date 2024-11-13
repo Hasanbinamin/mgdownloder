@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 certifi==2024.8.30
 charset-normalizer==3.4.0
 colorama==0.4.6
@@ -8,10 +7,3 @@ ratelimit==2.2.1
 requests==2.32.3
 tqdm==4.67.0
 urllib3==2.2.3
-=======
-requests
-ratelimit
-Pillow
-urllib3
-tqdm
->>>>>>> 648193fdbdfb4e7fd455726b857dcd3c8efac6d1
