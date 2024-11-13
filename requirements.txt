@@ -2,3 +2,4 @@ requests
 ratelimit
 Pillow
 urllib3
+tqdm
